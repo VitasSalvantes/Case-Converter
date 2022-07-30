@@ -8,7 +8,7 @@ different case. Instead of editing it, we can create a simple application that d
 
 ## Table of contents
 
-- [How does it work](#How-does-it-work)
+- [How it works](#How-it-works)
 - [Screenshots](#Screenshots)
 - [Technologies](#Technologies)
 - [Development progress](#Development-progress)
@@ -16,7 +16,7 @@ different case. Instead of editing it, we can create a simple application that d
 - [How to use](#How-to-use)
 - [How to contribute](#How-to-contribute)
 
-## How does it work
+## How it works
 
 This is the "Case Converter" project implementation. Read more about the project
 on [JetBrains Academy](https://hyperskill.org/projects/193).
@@ -80,4 +80,4 @@ Visit [this](https://vitassalvantes.github.io/Case-Converter/) page.
 
 ## How to contribute
 
-This repository is not designed for contributing because it follows other [purposes](#how-does-it-work).
+This repository is not designed for contributing because it follows other [purposes](#how-it-works).
