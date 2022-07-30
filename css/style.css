@@ -1,0 +1,37 @@
+body {
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: #020621;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    padding: 1%;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
+.flex-item {
+    flex-flow: wrap;
+}
+
+.input-text {
+    margin: 2% 0;
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.case-modifier {
+    width: 15%;
+    padding: 1%;
+    border-radius: 7px;
+    margin: 0 2%;
+    font-size: 1em;
+}
