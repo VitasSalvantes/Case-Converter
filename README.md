@@ -31,23 +31,23 @@ Home page:
 
 After click on the "Upper Case" button:
 
-![](/screenshots/upper case.png)
+![](/screenshots/upper_case.png)
 
 After click on the "Lower Case" button:
 
-![](/screenshots/lower case.png)
+![](/screenshots/lower_case.png)
 
 After click on the "Proper Case" button:
 
-![](/screenshots/proper case.png)
+![](/screenshots/proper_case.png)
 
 After click on the "Sentence Case" button:
 
-![](/screenshots/sentence case.png)
+![](/screenshots/sentence_case.png)
 
 After click on the "Save Text File" button:
 
-![](/screenshots/save text file.png)
+![](/screenshots/save_text_file.png)
 
 ## Technologies
 
