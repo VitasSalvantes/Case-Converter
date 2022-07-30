@@ -1,7 +1,8 @@
 # Case Converter
 
 ![current version](https://img.shields.io/badge/current_version-1.0.0-green)
-![GitHub license](https://img.shields.io/github/license/VitasSalvantes/Case-Converter)
+[![GitHub license](https://img.shields.io/github/license/VitasSalvantes/Case-Converter)](https://github.com/VitasSalvantes/Case-Converter/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/VitasSalvantes/Case-Converter)](https://github.com/VitasSalvantes/Case-Converter/issues)
 
 We work with texts quite often, and it's very sad when it turns out that the text should have been written in a
 different case. Instead of editing it, we can create a simple application that does the job for us.
