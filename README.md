@@ -1,6 +1,7 @@
 # Case Converter
 
 ![current version](https://img.shields.io/badge/current_version-1.0.0-green)
+![GitHub license](https://img.shields.io/github/license/VitasSalvantes/Case-Converter)
 
 We work with texts quite often, and it's very sad when it turns out that the text should have been written in a
 different case. Instead of editing it, we can create a simple application that does the job for us.
@@ -75,7 +76,7 @@ on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/pjvpzyqaxz).
 
 ## How to use
 
-Visit [this]() page.
+Visit [this](https://vitassalvantes.github.io/Case-Converter/) page.
 
 ## How to contribute
 
